@@ -29,7 +29,7 @@ HTML, CSS, JavaScript and More! A link to epicodus are provided if you are inter
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright(c) 2020 Mikey Kriegel
+Copyright(c) 2021 Mikey Kriegel
 
 ## Contact Information
 
